@@ -10,3 +10,7 @@ imgdata = base64.b64decode(img_bs64)
 file = open("1.jpg","wb")
 file.write(imgdata)
 file.close()
+
+
+======================================================
+1:代理爬取代码：  http://www.lijiejie.com/crawl-and-verify-http-proxies-python/
